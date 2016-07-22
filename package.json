@@ -1,0 +1,15 @@
+{
+  "name": "co-redismq",
+  "version": "1.0.0",
+  "description": "A simple Redis MQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.2.0"
+  }
+}
